@@ -1,0 +1,5 @@
+{
+  "name": "AI Trading Agents Dashboard",
+  "description": "An AI-powered dashboard for automated stock analysis. It leverages Gemini for fundamental, technical, and news sentiment analysis to provide trading recommendations.",
+  "requestFramePermissions": []
+}
